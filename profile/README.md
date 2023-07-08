@@ -5,6 +5,9 @@ This project was developed within the scope of researching the capabilities of i
 ## Contribution Guidelines
 Thank you for considering contributing to our open-source project! We appreciate your interest in helping us improve and grow. This document outlines the guidelines for contributing to our project and provides information on how you can get involved.
 
+You can join the conversation at: <br/>
+[![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/#p4sentry:matrix.org)
+
 ## Table of Contents
 - [Ways to Contribute](ways-to-contribute)
    - [Bug Report](bug-reports)
