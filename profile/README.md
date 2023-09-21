@@ -14,7 +14,7 @@ You can join the conversation at: <br/>
    - [Code Contributions](code-contributions)
    - [Documentation](documentation)
    - [Translations](translations)
-- [Getting Starte](getting-started)
+- [Getting Started](getting-started)
 
 ## Ways to Contribute
 
