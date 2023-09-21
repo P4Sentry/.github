@@ -1,6 +1,6 @@
 # P4Sentry
 
-This project was developed within the scope of researching the capabilities of integration between SDNs, its communication protocol, OpenFlow, and P4 programming languages, in order to create a monitoring system that could be deployed to any new or existing SDN network operating with P$ in its devices.
+This project was developed within the scope of researching the capabilities of integration between SDNs, its communication protocol, OpenFlow, and P4 programming languages, in order to create a monitoring system that could be deployed to any new or existing SDN network operating with P4 in its devices.
 
 ## Contribution Guidelines
 Thank you for considering contributing to our open-source project! We appreciate your interest in helping us improve and grow. This document outlines the guidelines for contributing to our project and provides information on how you can get involved.
